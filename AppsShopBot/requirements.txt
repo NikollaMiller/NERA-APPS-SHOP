@@ -1,3 +1,0 @@
-pyTelegramBotAPI==3.6.6
-telegram==0.0.1
-aiogram==3.8.1
